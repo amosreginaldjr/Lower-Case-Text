@@ -2,7 +2,7 @@
 #include <string>
 #include <windows.h>
 using namespace std;
-
+//https://icoconvert.com/
 /*
 CF_TEXT: Text data as an ANSI string (null-terminated)
 CF_UNICODETEXT: Text data as a Unicode string
@@ -98,6 +98,6 @@ int main()
     }
 
     cout << "Modifyed text: " << name << endl;
-    
+
     return 0;
 }
